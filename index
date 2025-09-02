@@ -1,9 +1,9 @@
-<html> lang="en"
+<html lang="en">
 <head>
-<body>
-<title> "sample website" </title>
-</body>
-<h1> "welcome to my web" </h1>
-<p> "des" </p>
+<title> sample website </title>
 </head>
+<body>
+<h1> welcome to my web </h1>
+<p> "des" </p>
+</body>
 </html>
